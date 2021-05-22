@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  margin-top: 0;
+  font-size: 7em;
+  color: #66BFBF;
+  text-shadow: 2px 2px 4px #000000;
+  margin-bottom: 8px;
+}
+
+h2 {
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  color: #66BFBF;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+h3 {
+  font-family: 'Pattaya', sans-serif;
+  font-size: 2rem;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Pattaya', sans-serif;
+  font-size: 1rem;
+}
+
+.top {
+  position: relative;
+  background-color: #8fd6e1;
+  padding: 100px 120px 0;
+}
+
+.cloud-bottom {
+  position: absolute;
+}
+
+.cloud-top {
+  position: absolute;
+  top: 170px;
+  right: 270px;
+}
+
+.mountain {
+  position: relative;
+  top: 4px;
+}
+
+.middle {
+  background-color: #fcf8e8;
+}
+
+.iconskills{
+  width: 25%;
+}
+.facuimg {
+  width: 250px;
+}
+.A{
+  margin-top: 4px;
+  font-weight: normal;
+}
+.skills-row {
+  width: 50%;
+  margin: auto;
+}
+.color {
+  color: #8fd6e1;
+}
+.B:hover {
+  background-color: #c8c2bc;
+  border-radius: 12px;
+}
+.C {
+  width: 5%;
+  margin: auto 2em;
+}
